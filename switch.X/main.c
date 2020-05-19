@@ -6,6 +6,7 @@
  */
 
 #include "18F4550_Internal.h"
+#include <xc.h>
 #include <stdint.h>
 
 
